@@ -6,6 +6,7 @@
     ./fish.nix
     ./git.nix
     ./ssh.nix
+    ./vscode.nix
   ];
 
   targets.genericLinux.enable = true;
