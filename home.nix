@@ -7,6 +7,7 @@
     ./git.nix
     ./ssh.nix
     ./vscode.nix
+    ./tmux.nix
   ];
 
   targets.genericLinux.enable = true;
