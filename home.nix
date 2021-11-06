@@ -20,8 +20,11 @@
   home.stateVersion = "21.05";
 
   home.packages = with pkgs; [
+    neofetch
     htop
     xclip
     gh
+    nixfmt
+    openssh
   ];
 }
