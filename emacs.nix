@@ -9,6 +9,8 @@ in
     ripgrep
     clang
     coreutils
+
+    texlive.combined.scheme-medium
   ];
 
   home.sessionPath = [ "${homeDirectory}/.config/emacs/bin" ];
