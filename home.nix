@@ -26,5 +26,6 @@
     gh
     nixfmt
     openssh
+    nodejs
   ];
 }
